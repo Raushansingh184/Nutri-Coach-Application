@@ -1,0 +1,8 @@
+{
+  "name": "NutriCoach AI",
+  "description": "A smart nutrition coach and calorie counter powered by Gemini AI. Features food recognition, BMI tracking, and dynamic meal planning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
